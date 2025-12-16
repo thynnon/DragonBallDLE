@@ -1,0 +1,123 @@
+{
+  "personnages": [
+    {
+      "id": 1,
+      "nom":"Son Goku",
+      "photo": "goku.png",
+      "race": "Saiyan",
+      "origine": "Planète Vegeta",
+      "genre": "Masculin",
+      "NbTransformation": 9,
+      "NbMorts": 2,
+      "saga": "Saga Pilaf",
+      "serie": "Dragon Ball",
+      "premierEpisodeApparition": "Dragon Ball - Épisode 1",
+      "couleurCheveuxBase": "Noir"
+    },
+    {
+      "id": 2,
+      "nom":"Son Gohan",
+      "photo": "gohan.png",
+      "race": "Hybride Saiyan / Humain",
+      "origine": "Terre",
+      "genre": "Masculin",
+      "NbTransformation": 5,
+      "NbMorts": 1,
+      "saga": "Saga Saiyan",
+      "serie": "Dragon Ball Z",
+      "premierEpisodeApparition": "Dragon Ball Z - Épisode 1",
+      "couleurCheveuxBase": "Noir"
+    },
+    {
+      "id": 3,
+      "photo": "vegeta.png",
+      "race": "Saiyan",
+      "origine": "Planète Vegeta",
+      "genre": "Masculin",
+      "NbTransformation": 6,
+      "NbMorts": 2,
+      "saga": "Saga Saiyan",
+      "serie": "Dragon Ball Z",
+      "premierEpisodeApparition": "Dragon Ball Z - Épisode 6",
+      "couleurCheveuxBase": "Noir"
+    },
+    {
+      "id": 4,
+      "photo": "piccolo.png",
+      "race": "Namek",
+      "origine": "Namek",
+      "genre": "Masculin",
+      "NbTransformation": 3,
+      "NbMorts": 2,
+      "saga": "Saga Piccolo Daimao",
+      "serie": "Dragon Ball",
+      "premierEpisodeApparition": "Dragon Ball - Épisode 122",
+      "couleurCheveuxBase": "Aucun"
+    },
+    {
+      "id": 5,
+      "photo": "krillin.png",
+      "race": "Humain",
+      "origine": "Terre",
+      "genre": "Masculin",
+      "NbTransformation": 0,
+      "NbMorts": 3,
+      "saga": "Saga Pilaf",
+      "serie": "Dragon Ball",
+      "premierEpisodeApparition": "Dragon Ball - Épisode 14",
+      "couleurCheveuxBase": "Noir"
+    },
+    {
+      "id": 6,
+      "photo": "trunks.png",
+      "race": "Hybride Saiyan / Humain",
+      "origine": "Terre (futur)",
+      "genre": "Masculin",
+      "NbTransformation": 4,
+      "NbMorts": 1,
+      "saga": "Saga Cyborgs",
+      "serie": "Dragon Ball Z",
+      "premierEpisodeApparition": "Dragon Ball Z - Épisode 118",
+      "couleurCheveuxBase": "Violet"
+    },
+    {
+      "id": 7,
+      "photo": "yamcha.png",
+      "race": "Humain",
+      "origine": "Terre",
+      "genre": "Masculin",
+      "NbTransformation": 0,
+      "NbMorts": 2,
+      "saga": "Saga Pilaf",
+      "serie": "Dragon Ball",
+      "premierEpisodeApparition": "Dragon Ball - Épisode 5",
+      "couleurCheveuxBase": "Noir"
+    },
+    {
+      "id": 8,
+      "photo": "tenshinhan.png",
+      "race": "Humain",
+      "origine": "Terre",
+      "genre": "Masculin",
+      "NbTransformation": 0,
+      "NbMorts": 1,
+      "saga": "Saga 22e Tenkaichi Budokai",
+      "serie": "Dragon Ball",
+      "premierEpisodeApparition": "Dragon Ball - Épisode 84",
+      "couleurCheveuxBase": "Noir"
+    },
+    {
+      "id": 9,
+      "photo": "chiaotzu.png",
+      "race": "Humanoïde",
+      "origine": "Terre",
+      "genre": "Masculin",
+      "NbTransformation": 0,
+      "NbMorts": 1,
+      "saga": "Saga 22e Tenkaichi Budokai",
+      "serie": "Dragon Ball",
+      "premierEpisodeApparition": "Dragon Ball - Épisode 85",
+      "couleurCheveuxBase": "Noir"
+    }
+  ]
+}
