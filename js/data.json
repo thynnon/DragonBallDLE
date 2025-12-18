@@ -3,7 +3,7 @@
     {
       "id": 1,
       "nom": "Raditz",
-      "photo": "raditz.png",
+      "photo": "raditz.webp",
       "race": "Saiyan",
       "origine": "Planète Vegeta",
       "genre": "Masculin",
@@ -17,7 +17,7 @@
     {
       "id": 2,
       "nom": "Nappa",
-      "photo": "nappa.png",
+      "photo": "nappa.webp",
       "race": "Saiyan",
       "origine": "Planète Vegeta",
       "genre": "Masculin",
@@ -31,7 +31,7 @@
     {
       "id": 3,
       "nom": "Vegeta",
-      "photo": "vegeta.png",
+      "photo": "vegeta.webp",
       "race": "Saiyan",
       "origine": "Planète Vegeta",
       "genre": "Masculin",
@@ -45,7 +45,7 @@
     {
       "id": 4,
       "nom": "Son Gohan",
-      "photo": "gohan.png",
+      "photo": "gohan.webp",
       "race": ["Saiyan", "Terrien"],
       "origine": "Terre",
       "genre": "Masculin",
@@ -59,7 +59,7 @@
         {
       "id": 5,
       "nom": "Freezer",
-      "photo": "freezer.png",
+      "photo": "freezer.webp",
       "race": "Race de Freezer",
       "origine": "Inconnue",
       "genre": "Masculin",
@@ -73,7 +73,7 @@
     {
       "id": 6,
       "nom": "Zarbon",
-      "photo": "zarbon.png",
+      "photo": "zarbon.webp",
       "race": "Extraterrestre",
       "origine": "Inconnue",
       "genre": "Masculin",
@@ -87,7 +87,7 @@
     {
       "id": 7,
       "nom": "Dodoria",
-      "photo": "dodoria.png",
+      "photo": "dodoria.webp",
       "race": "Extraterrestre",
       "origine": "Inconnue",
       "genre": "Masculin",
@@ -101,7 +101,7 @@
     {
       "id": 8,
       "nom": "Nail",
-      "photo": "nail.png",
+      "photo": "nail.webp",
       "race": "Namek",
       "origine": "Planète Namek",
       "genre": "Masculin",
@@ -115,7 +115,7 @@
     {
       "id": 9,
       "nom": "Dendé",
-      "photo": "dende.png",
+      "photo": "dende.webp",
       "race": "Namek",
       "origine": "Planète Namek",
       "genre": "Masculin",
@@ -129,7 +129,7 @@
     {
       "id": 10,
       "nom": "Captain Ginyu",
-      "photo": "ginyu.png",
+      "photo": "ginyu.webp",
       "race": "Extraterrestre",
       "origine": "Inconnue",
       "genre": "Masculin",
@@ -142,7 +142,7 @@
     },    {
       "id": 11,
       "nom": "Recoome",
-      "photo": "recoome.png",
+      "photo": "recoome.webp",
       "race": "Mutant",
       "origine": "Inconnue",
       "genre": "Masculin",
@@ -156,7 +156,7 @@
     {
       "id": 12,
       "nom": "Burter",
-      "photo": "burter.png",
+      "photo": "burter.webp",
       "race": "Extraterrestre",
       "origine": "Inconnue",
       "genre": "Masculin",
@@ -170,7 +170,7 @@
     {
       "id": 13,
       "nom": "Jeese",
-      "photo": "jeese.png",
+      "photo": "jeese.webp",
       "race": "Brench",
       "origine": "Planète Brench",
       "genre": "Masculin",
@@ -184,7 +184,7 @@
     {
       "id": 14,
       "nom": "Guldo",
-      "photo": "guldo.png",
+      "photo": "guldo.webp",
       "race": "Bas",
       "origine": "Inconnue",
       "genre": "Masculin",
@@ -198,7 +198,7 @@
     {
       "id": 15,
       "nom": "Kiwi",
-      "photo": "kiwi.png",
+      "photo": "kiwi.webp",
       "race": "Extraterrestre",
       "origine": "Inconnue",
       "genre": "Masculin",
@@ -212,7 +212,7 @@
     {
       "id": 16,
       "nom": "Apple",
-      "photo": "apple.png",
+      "photo": "apple.webp",
       "race": "Extraterrestre",
       "origine": "Inconnue",
       "genre": "Masculin",
@@ -225,7 +225,7 @@
     },    {
       "id": 17,
       "nom": "Le Grand Doyen",
-      "photo": "doyen.png",
+      "photo": "doyen.webp",
       "race": "Namek",
       "origine": "Planète Namek",
       "genre": "Masculin",
@@ -239,7 +239,7 @@
     {
       "id": 19,
       "nom": "Porunga",
-      "photo": "porunga.png",
+      "photo": "porunga.webp",
       "race": "Dragon",
       "origine": "Planète Namek",
       "genre": "Masculin",
@@ -253,7 +253,7 @@
         {
       "id": 20,
       "nom": "Trunks du Futur",
-      "photo": "trunks_futur.png",
+      "photo": "trunks_futur.webp",
       "race": ["Saiyan","Terrien"],
       "origine": "Terre",
       "genre": "Masculin",
@@ -267,7 +267,7 @@
     {
       "id": 21,
       "nom": "C-19",
-      "photo": "c19.png",
+      "photo": "c19.webp",
       "race": "Cyborg",
       "origine": "Terre",
       "genre": "Masculin",
@@ -281,7 +281,7 @@
     {
       "id": 22,
       "nom": "Dr Gero",
-      "photo": "drgero.png",
+      "photo": "drgero.webp",
       "race": "Cyborg",
       "origine": "Terre",
       "genre": "Masculin",
@@ -295,7 +295,7 @@
     {
       "id": 23,
       "nom": "C-17",
-      "photo": "c17.png",
+      "photo": "c17.webp",
       "race": "Cyborg",
       "origine": "Terre",
       "genre": "Masculin",
@@ -309,7 +309,7 @@
     {
       "id": 24,
       "nom": "C-18",
-      "photo": "c18.png",
+      "photo": "c18.webp",
       "race": "Cyborg",
       "origine": "Terre",
       "genre": "Féminin",
@@ -323,7 +323,7 @@
     {
       "id": 25,
       "nom": "C-16",
-      "photo": "c16.png",
+      "photo": "c16.webp",
       "race": "Cyborg",
       "origine": "Terre",
       "genre": "Masculin",
@@ -337,7 +337,7 @@
     {
       "id": 26,
       "nom": "Babidi",
-      "photo": "babidi.png",
+      "photo": "babidi.webp",
       "race": "Sorcier",
       "origine": "Monde des sorciers",
       "genre": "Masculin",
@@ -352,7 +352,7 @@
     {
       "id": 27,
       "nom": "Bardock",
-      "photo": "bardock.png",
+      "photo": "bardock.webp",
       "race": "Saiyan",
       "origine": "Planète Vegeta",
       "genre": "Masculin",
@@ -367,7 +367,7 @@
     {
       "id": 28,
       "nom": "Bubbles",
-      "photo": "bubbles.png",
+      "photo": "bubbles.webp",
       "race": "Singe",
       "origine": "Planète de Kaio",
       "genre": "Masculin",
@@ -382,7 +382,7 @@
     {
       "id": 29,
       "nom": "Cell",
-      "photo": "cell.png",
+      "photo": "cell.webp",
       "race": "Androïd",
       "origine": "Terre",
       "genre": "Masculin",
@@ -397,7 +397,7 @@
     {
       "id": 30,
       "nom": "Cell Jr",
-      "photo": "celljr.png",
+      "photo": "celljr.webp",
       "race": "Androïd",
       "origine": "Terre",
       "genre": "Masculin",
@@ -412,7 +412,7 @@
     {
       "id": 31,
       "nom": "Son Goten",
-      "photo": "goten.png",
+      "photo": "goten.webp",
       "race": ["Saiyan","Terrien"],
       "origine": "Terre",
       "genre": "Masculin",
@@ -427,7 +427,7 @@
     {
       "id": 32,
       "nom": "Trunks",
-      "photo": "trunks.png",
+      "photo": "trunks.webp",
       "race": "Saiyan",
       "origine": "Terre",
       "genre": "Masculin",
@@ -442,7 +442,7 @@
     {
       "id": 33,
       "nom": "Gotenks",
-      "photo": "gotenks.png",
+      "photo": "gotenks.webp",
       "race": ["Saiyan","Terrien"],
       "origine": "Terre",
       "genre": "Masculin",
@@ -457,7 +457,7 @@
     {
       "id": 34,
       "nom": "Grand Roi Cold",
-      "photo": "cold.png",
+      "photo": "cold.webp",
       "race": "Race de Freezer",
       "origine": "Inconnue",
       "genre": "Masculin",
@@ -472,7 +472,7 @@
     {
       "id": 35,
       "nom": "Grand roi Enma",
-      "photo": "enma.png",
+      "photo": "enma.webp",
       "race": "Ogre",
       "origine": "Autre Monde",
       "genre": "Masculin",
@@ -487,7 +487,7 @@
     {
       "id": 36,
       "nom": "Grégory",
-      "photo": "gregory.png",
+      "photo": "gregory.webp",
       "race": "Criquet",
       "origine": "Planète de Kaio",
       "genre": "Masculin",
@@ -502,7 +502,7 @@
     {
       "id": 37,
       "nom": "Boo",
-      "photo": "boo.png",
+      "photo": "boo.webp",
       "race": "Majin",
       "origine": "Royaume Boo",
       "genre": "Masculin",
@@ -517,7 +517,7 @@
     {
       "id": 38,
       "nom": "Marron",
-      "photo": "marron.png",
+      "photo": "marron.webp",
       "race": "Terrien",
       "origine": "Terre",
       "genre": "Féminin",
@@ -532,7 +532,7 @@
     {
       "id": 39,
       "nom": "Saibaman",
-      "photo": "saibaman.png",
+      "photo": "saibaman.webp",
       "race": "Saibaiman",
       "origine": "Royaume des Démons",
       "genre": "Asexué",
@@ -547,7 +547,7 @@
     {
       "id": 40,
       "nom": "Spopovitch",
-      "photo": "spopovitch.png",
+      "photo": "spopovitch.webp",
       "race": "Terrien",
       "origine": "Terre",
       "genre": "Masculin",
@@ -562,7 +562,7 @@
     {
       "id": 41,
       "nom": "Videl",
-      "photo": "videl.png",
+      "photo": "videl.webp",
       "race": "Terrien",
       "origine": "Terre",
       "genre": "Féminin",
@@ -577,7 +577,7 @@
     {
       "id": 42,
       "nom": "Vegetto",
-      "photo": "vegetto.png",
+      "photo": "vegetto.webp",
       "race": "Saiyan",
       "origine": "Terre",
       "genre": "Masculin",
@@ -592,7 +592,7 @@
     {
       "id": 43,
       "nom": "Kibitoshin",
-      "photo": "kibitoshin.png",
+      "photo": "kibitoshin.webp",
       "race": "Divinité",
       "origine": ["Kaïô", "Planète Kaishin"],
       "genre": "Masculin",
@@ -607,7 +607,7 @@
     {
       "id": 44,
       "nom": "Kibito",
-      "photo": "kibito.png",
+      "photo": "kibito.webp",
       "race": "Divinité",
       "origine": "Kaïô",
       "genre": "Masculin",
@@ -622,7 +622,7 @@
     {
       "id": 45,
       "nom": "Kaiô Shin de l'Est",
-      "photo": "shin.png",
+      "photo": "shin.webp",
       "race": "Divinité",
       "origine": "Planète Kaishin",
       "genre": "Masculin",
@@ -637,7 +637,7 @@
     {
       "id": 46,
       "nom": "Kaio du Nord",
-      "photo": "kaio_nord.png",
+      "photo": "kaio_nord.webp",
       "race": "Divinité",
       "origine": "Planète de Maître Kaïô",
       "genre": "Masculin",
@@ -652,7 +652,7 @@
     {
       "id": 47,
       "nom": "Kaio du Sud",
-      "photo": "kaio_sud.png",
+      "photo": "kaio_sud.webp",
       "race": "Divinité",
       "origine": "Inconnue",
       "genre": "Masculin",
@@ -667,7 +667,7 @@
     {
       "id": 48,
       "nom": "Kaio de l'Est",
-      "photo": "kaio_est.png",
+      "photo": "kaio_est.webp",
       "race": "Divinité",
       "origine": "Inconnue",
       "genre": "Féminin",
@@ -682,7 +682,7 @@
     {
       "id": 49,
       "nom": "Kaio de l'Ouest",
-      "photo": "kaio_ouest.png",
+      "photo": "kaio_ouest.webp",
       "race": "Divinité",
       "origine": "Inconnue",
       "genre": "Masculin",
@@ -697,7 +697,7 @@
     {
       "id": 50,
       "nom": "Dai Kaio",
-      "photo": "dai_kaio.png",
+      "photo": "dai_kaio.webp",
       "race": "Divinité",
       "origine": "Planète du Grand Kaïô",
       "genre": "Masculin",
@@ -711,7 +711,7 @@
     {
       "id": 51,
       "nom": "Vieux Kaio Shin",
-      "photo": "vieux_kaio.png",
+      "photo": "vieux_kaio.webp",
       "race": "Kaiō",
       "origine": "Planète Kaishin",
       "genre": "Masculin",
@@ -725,7 +725,7 @@
      {
       "id": 52,
       "nom": "Yam",
-      "photo": "yam.png",
+      "photo": "yam.webp",
       "race": "Terrien",
       "origine": "Terre",
       "genre": "Masculin",
@@ -739,7 +739,7 @@
      {
       "id": 53,
       "nom": "Beerus",
-      "photo": "beerus.png",
+      "photo": "beerus.webp",
       "race": "Divinité",
       "origine": "Inconnue",
       "genre": "Masculin",
@@ -753,7 +753,7 @@
     {
       "id": 54,
       "nom": "Whis",
-      "photo": "whis.png",
+      "photo": "whis.webp",
       "race": "Ange",
       "origine": "Royaume des Anges",
       "genre": "Masculin",
@@ -767,7 +767,7 @@
     {
       "id": 55,
       "nom": "Champa",
-      "photo": "champa.png",
+      "photo": "champa.webp",
       "race": "Divinité",
       "origine": "Inconnue",
       "genre": "Masculin",
@@ -781,7 +781,7 @@
     {
       "id": 56,
       "nom": "Vados",
-      "photo": "vados.png",
+      "photo": "vados.webp",
       "race": "Ange",
       "origine": "Royaume des Anges",
       "genre": "Féminin",
@@ -795,7 +795,7 @@
     {
       "id": 57,
       "nom": "Cabba",
-      "photo": "cabba.png",
+      "photo": "cabba.webp",
       "race": "Saiyan",
       "origine": "Planète Sadala",
       "genre": "Masculin",
@@ -809,7 +809,7 @@
     {
       "id": 58,
       "nom": "Califla",
-      "photo": "califla.png",
+      "photo": "califla.webp",
       "race": "Saiyan",
       "origine": "Planète Sadala",
       "genre": "Féminin",
@@ -823,7 +823,7 @@
     {
       "id": 59,
       "nom": "Kale",
-      "photo": "kale.png",
+      "photo": "kale.webp",
       "race": "Saiyan",
       "origine": "Planète Sadala",
       "genre": "Féminin",
@@ -837,7 +837,7 @@
     {
       "id": 117,
       "nom": "Kafla",
-      "photo": "kafla.png",
+      "photo": "kafla.webp",
       "race": "Saiyan",
       "origine": "Planète Sadala",
       "genre": "Féminin",
@@ -851,7 +851,7 @@
     {
       "id": 60,
       "nom": "Hit",
-      "photo": "hit.png",
+      "photo": "hit.webp",
       "race": "Inconnu",
       "origine": "Inconnue",
       "genre": "Masculin",
@@ -865,7 +865,7 @@
     {
       "id": 61,
       "nom": "Frost",
-      "photo": "frost.png",
+      "photo": "frost.webp",
       "race": "Race de Freezer",
       "origine": "Inconnue",
       "genre": "Masculin",
@@ -879,7 +879,7 @@
     {
       "id": 62,
       "nom": "Broly",
-      "photo": "broly.png",
+      "photo": "broly.webp",
       "race": "Saiyan",
       "origine": "Planète Vegeta",
       "genre": "Masculin",
@@ -893,7 +893,7 @@
     {
       "id": 63,
       "nom": "Gogeta",
-      "photo": "gogeta.png",
+      "photo": "gogeta.webp",
       "race": "Saiyan",
       "origine": "Planète Vegeta",
       "genre": "Masculin",
@@ -907,7 +907,7 @@
     {
       "id": 64,
       "nom": "Zamasu",
-      "photo": "zamasu.png",
+      "photo": "zamasu.webp",
       "race": "Divinité",
       "origine": "Planète Kaishin de l'Univers 10",
       "genre": "Masculin",
@@ -921,7 +921,7 @@
     {
       "id": 65,
       "nom": "Zamasu Fusionné",
-      "photo": "zamasu_fusion.png",
+      "photo": "zamasu_fusion.webp",
       "race": ["Divinité","Saiyan"],
       "origine": "Planète Kaishin de l'Univers 10",
       "genre": "Masculin",
@@ -936,7 +936,7 @@
     {
       "id": 66,
       "nom": "Black Goku",
-      "photo": "black_goku.png",
+      "photo": "black_goku.webp",
       "race": ["Saiyan", "Divinité"],
       "origine": "Planète Kaishin de l'Univers 10",
       "genre": "Masculin",
@@ -950,7 +950,7 @@
     {
       "id": 67,
       "nom": "Zen'ô",
-      "photo": "zeno.png",
+      "photo": "zeno.webp",
       "race": "Divinité",
       "origine": "Inconnue",
       "genre": "Inconnu",
@@ -964,7 +964,7 @@
     {
       "id": 68,
       "nom": "Grand Prêtre",
-      "photo": "grand_pretre.png",
+      "photo": "grand_pretre.webp",
       "race": "Ange",
       "origine": "Royaume des Anges",
       "genre": "Masculin",
@@ -978,7 +978,7 @@
     {
       "id": 69,
       "nom": "Jiren",
-      "photo": "jiren.png",
+      "photo": "jiren.webp",
       "race": "Inconnu",
       "origine": "Univers 11",
       "genre": "Masculin",
@@ -992,7 +992,7 @@
     {
       "id": 70,
       "nom": "Toppo",
-      "photo": "toppo.png",
+      "photo": "toppo.webp",
       "race": "Inconnu",
       "origine": "Univers 11",
       "genre": "Masculin",
@@ -1006,7 +1006,7 @@
     {
       "id": 71,
       "nom": "Dyspo",
-      "photo": "dyspo.png",
+      "photo": "dyspo.webp",
       "race": "Inconnu",
       "origine": "Univers 11",
       "genre": "Masculin",
@@ -1020,7 +1020,7 @@
     {
       "id": 72,
       "nom": "Ribrianne",
-      "photo": "ribrianne.png",
+      "photo": "ribrianne.webp",
       "race": "Inconnu",
       "origine": "Univers 2",
       "genre": "Féminin",
@@ -1034,7 +1034,7 @@
     {
       "id": 73,
       "nom": "Jaco",
-      "photo": "jaco.png",
+      "photo": "jaco.webp",
       "race": "Extraterrestre",
       "origine": "Inconnue",
       "genre": "Masculin",
@@ -1048,7 +1048,7 @@
     {
       "id": 74,
       "nom": "Monaka",
-      "photo": "monaka.png",
+      "photo": "monaka.webp",
       "race": "Inconnu",
       "origine": "Planète Wagashi",
       "genre": "Masculin",
@@ -1062,7 +1062,7 @@
     {
       "id": 75,
       "nom": "kunshee",
-      "photo": "kunshee.png",
+      "photo": "kunshee.webp",
       "race": "Extraterrestre",
       "origine": "Univers 11",
       "genre": "Masculin",
@@ -1076,7 +1076,7 @@
     {
       "id": 76,
       "nom": "Kettle",
-      "photo": "kettle.png",
+      "photo": "kettle.webp",
       "race": "Inconnu",
       "origine": "Univers 11",
       "genre": "Masculin",
@@ -1090,7 +1090,7 @@
     {
       "id": 77,
       "nom": "Basil",
-      "photo": "basil.png",
+      "photo": "basil.webp",
       "race": "Loup",
       "origine": "Univers 9",
       "genre": "Masculin",
@@ -1104,7 +1104,7 @@
     {
       "id": 78,
       "nom": "Bra",
-      "photo": "bra.png",
+      "photo": "bra.webp",
       "race": ["Terrien", "Saiyan"],
       "origine": "Terre",
       "genre": "Féminin",
@@ -1118,7 +1118,7 @@
     {
       "id": 79,
       "nom": "Cocotte",
-      "photo": "cocotte.png",
+      "photo": "cocotte.webp",
       "race": "Inconnue",
       "origine": "Univers 11",
       "genre": "Féminin",
@@ -1132,7 +1132,7 @@
     {
       "id": 80,
       "nom": "Quitela",
-      "photo": "quitela.png",
+      "photo": "quitela.webp",
       "race": "Divinité",
       "origine": "Univers 4",
       "genre": "Masculin",
@@ -1146,7 +1146,7 @@
     {
       "id": 81,
       "nom": "Sorbet",
-      "photo": "sorbet.png",
+      "photo": "sorbet.webp",
       "race": "Extraterrestre",
       "origine": "Univers 7",
       "genre": "Masculin",
@@ -1160,7 +1160,7 @@
     {
       "id": 82,
       "nom": "Tagoma",
-      "photo": "tagoma.png",
+      "photo": "tagoma.webp",
       "race": "Extraterrestre",
       "origine": "Univers 7",
       "genre": "Masculin",
@@ -1174,7 +1174,7 @@
     {
       "id": 83,
       "nom": "Lavender",
-      "photo": "lavender.png",
+      "photo": "lavender.webp",
       "race": "Loup",
       "origine": "Univers 9",
       "genre": "Masculin",
@@ -1188,7 +1188,7 @@
     {
       "id": 84,
       "nom": "Bergamo",
-      "photo": "bergamo.png",
+      "photo": "bergamo.webp",
       "race": "Loup",
       "origine": "Univers 9",
       "genre": "Masculin",
@@ -1202,7 +1202,7 @@
     {
       "id": 85,
       "nom": "Son Goku",
-      "photo": "goku.png",
+      "photo": "goku.webp",
       "race": "Saiyan",
       "origine": "Planète Vegeta",
       "genre": "Masculin",
@@ -1216,7 +1216,7 @@
     {
       "id": 86,
       "nom": "Bulma",
-      "photo": "bulma.png",
+      "photo": "bulma.webp",
       "race": "Terrien",
       "origine": "Terre",
       "genre": "Féminin",
@@ -1230,7 +1230,7 @@
     {
       "id": 87,
       "nom": "Krillin",
-      "photo": "krillin.png",
+      "photo": "krillin.webp",
       "race": "Terrien",
       "origine": "Terre",
       "genre": "Masculin",
@@ -1244,7 +1244,7 @@
     {
       "id": 88,
       "nom": "Yamcha",
-      "photo": "yamcha.png",
+      "photo": "yamcha.webp",
       "race": "Terrien",
       "origine": "Terre",
       "genre": "Masculin",
@@ -1258,7 +1258,7 @@
     {
       "id": 89,
       "nom": "Oolong",
-      "photo": "oolong.png",
+      "photo": "oolong.webp",
       "race": "Terrien",
       "origine": "Terre",
       "genre": "Masculin",
@@ -1272,7 +1272,7 @@
     {
       "id": 90,
       "nom": "Plume",
-      "photo": "puar.png",
+      "photo": "puar.webp",
       "race": "Terrien",
       "origine": "Terre",
       "genre": "Masculin",
@@ -1286,7 +1286,7 @@
     {
       "id": 91,
       "nom": "Tortue Géniale",
-      "photo": "kamesennin.png",
+      "photo": "kamesennin.webp",
       "race": "Terrien",
       "origine": "Terre",
       "genre": "Masculin",
@@ -1300,7 +1300,7 @@
     {
       "id": 92,
       "nom": "Lunch",
-      "photo": "lunch.png",
+      "photo": "lunch.webp",
       "race": "Terriene",
       "origine": "Terre",
       "genre": "Féminin",
@@ -1314,7 +1314,7 @@
     {
       "id": 93,
       "nom": "Ten Shin Han",
-      "photo": "tenshinhan.png",
+      "photo": "tenshinhan.webp",
       "race": ["Terrien", "Triclop"],
       "origine": "Terre",
       "genre": "Masculin",
@@ -1328,7 +1328,7 @@
     {
       "id": 94,
       "nom": "Chaozu",
-      "photo": "chaozu.png",
+      "photo": "chaozu.webp",
       "race": "Terrien",
       "origine": "Terre",
       "genre": "Masculin",
@@ -1342,7 +1342,7 @@
     {
       "id": 95,
       "nom": "Piccolo Daimao",
-      "photo": "piccolo_daimao.png",
+      "photo": "piccolo_daimao.webp",
       "race": "Namek",
       "origine": "Terre",
       "genre": "Masculin",
@@ -1356,7 +1356,7 @@
     {
       "id": 96,
       "nom": "Piccolo",
-      "photo": "piccolo.png",
+      "photo": "piccolo.webp",
       "race": "Namek",
       "origine": "Terre",
       "genre": "Masculin",
@@ -1370,7 +1370,7 @@
     {
       "id": 97,
       "nom": "Pilaf",
-      "photo": "pilaf.png",
+      "photo": "pilaf.webp",
       "race": "Terrien",
       "origine": "Terre",
       "genre": "Masculin",
@@ -1384,7 +1384,7 @@
     {
       "id": 98,
       "nom": "Shu",
-      "photo": "shu.png",
+      "photo": "shu.webp",
       "race": ["Terrien", "Chien"],
       "origine": "Terre",
       "genre": "Masculin",
@@ -1398,7 +1398,7 @@
     {
       "id": 99,
       "nom": "Mai",
-      "photo": "mai.png",
+      "photo": "mai.webp",
       "race": "Terrien",
       "origine": "Terre",
       "genre": "Féminin",
@@ -1412,7 +1412,7 @@
     {
       "id": 100,
       "nom": "Tao Pai Pai",
-      "photo": "taopaipai.png",
+      "photo": "taopaipai.webp",
       "race": "Terrien",
       "origine": "Terre",
       "genre": "Masculin",
@@ -1426,7 +1426,7 @@
     {
       "id": 101,
       "nom": "Général Blue",
-      "photo": "general_blue.png",
+      "photo": "general_blue.webp",
       "race": "Terrien",
       "origine": "Terre",
       "genre": "Masculin",
@@ -1440,7 +1440,7 @@
     {
       "id": 102,
       "nom": "Général Red",
-      "photo": "red.png",
+      "photo": "red.webp",
       "race": "Terrien",
       "origine": "Terre",
       "genre": "Masculin",
@@ -1454,7 +1454,7 @@
     {
       "id": 103,
       "nom": "Bora",
-      "photo": "bora.png",
+      "photo": "bora.webp",
       "race": "Terrien",
       "origine": "Terre",
       "genre": "Masculin",
@@ -1468,7 +1468,7 @@
     {
       "id": 104,
       "nom": "Upa",
-      "photo": "upa.png",
+      "photo": "upa.webp",
       "race": "Terrien",
       "origine": "Terre",
       "genre": "Masculin",
@@ -1482,7 +1482,7 @@
     {
       "id": 105,
       "nom": "Karin",
-      "photo": "karin.png",
+      "photo": "karin.webp",
       "race": ["Divinité","Chat"],
       "origine": "Terre",
       "genre": "Masculin",
@@ -1496,7 +1496,7 @@
     {
       "id": 106,
       "nom": "Yajirobe",
-      "photo": "yajirobe.png",
+      "photo": "yajirobe.webp",
       "race": "Terrien",
       "origine": "Terre",
       "genre": "Masculin",
@@ -1510,7 +1510,7 @@
     {
       "id": 107,
       "nom": "Baba la Voyante",
-      "photo": "baba.png",
+      "photo": "baba.webp",
       "race": "Terrienne",
       "origine": "Terre",
       "genre": "Féminin",
@@ -1524,7 +1524,7 @@
     {
       "id": 108,
       "nom": "Son Gohan (Grand-père)",
-      "photo": "gohan_grandpere.png",
+      "photo": "gohan_grandpere.webp",
       "race": "Terrien",
       "origine": "Terre",
       "genre": "Masculin",
@@ -1538,7 +1538,7 @@
     {
       "id": 109,
       "nom": "Tambourine",
-      "photo": "tambourine.png",
+      "photo": "tambourine.webp",
       "race": "Inconnue",
       "origine": "Terre",
       "genre": "Masculin",
@@ -1552,7 +1552,7 @@
     {
       "id": 110,
       "nom": "Mr Popo",
-      "photo": "mr_popo.png",
+      "photo": "mr_popo.webp",
       "race": "Divinité",
       "origine": "Autre Monde",
       "genre": "Masculin",
@@ -1566,7 +1566,7 @@
     {
       "id": 111,
       "nom": "Shenron",
-      "photo": "shenron.png",
+      "photo": "shenron.webp",
       "race": "Dragon",
       "origine": "Terre",
       "genre": "Masculin",
@@ -1580,7 +1580,7 @@
     {
       "id": 112,
       "nom": "Kami-sama",
-      "photo": "kami.png",
+      "photo": "kami.webp",
       "race": "Namek",
       "origine": "Namek",
       "genre": "Masculin",
@@ -1594,7 +1594,7 @@
     {
       "id": 113,
       "nom": "Cymbal",
-      "photo": "cymbal.png",
+      "photo": "cymbal.webp",
       "race": "Inconnue",
       "origine": "Terre",
       "genre": "Masculin",
@@ -1608,7 +1608,7 @@
   {
       "id": 114,
       "nom": "Drum",
-      "photo": "drum.png",
+      "photo": "drum.webp",
       "race": "Inconnue",
       "origine": "Terre",
       "genre": "Masculin",
@@ -1622,7 +1622,7 @@
   {
       "id": 115,
       "nom": "Piano",
-      "photo": "piano.png",
+      "photo": "piano.webp",
       "race": "Inconnue",
       "origine": "Terre",
       "genre": "Masculin",
@@ -1636,7 +1636,7 @@
   {
       "id": 116,
       "nom": "Mutaito",
-      "photo": "mutaito.png",
+      "photo": "mutaito.webp",
       "race": "Terrien",
       "origine": "Terre",
       "genre": "Masculin",
